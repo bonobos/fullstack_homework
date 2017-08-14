@@ -11,7 +11,7 @@ Submit your application on Github with a README file with build instructions, an
 - Load the data into a database
 
 ## Goal #2: make an HTTP api for the data
-Create an HTTP API to fetch the data you loaded into the database in part 1
+Create an HTTP API to fetch the data you loaded into the database in part 1.  Add a test to verify the HTTP API works.
 
 ## Goal #3: make a webpage that displays the data
 
